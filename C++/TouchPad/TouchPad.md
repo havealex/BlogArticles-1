@@ -11,3 +11,8 @@
 - [Joystick-Input-Examples](https://github.com/MysteriousJ/Joystick-Input-Examples)
 - [windows-touchpad](https://github.com/ichisadashioko/windows-touchpad)
 - [Mobile TouchPad](https://www.codeproject.com/script/Contests/Winners.aspx?obtid=1&cmpTpId=2&cid=0)
+
+# Windows手势
+- [18 Essential Touch Gestures in Windows 10](https://www.makeuseof.com/tag/18-essential-touch-gestures-windows-10/)
+- [How to run apps with touchpad gestures on Windows 10](https://www.addictivetips.com/windows-tips/run-apps-with-touchpad-gestures-windows-10/)
+- [Touchpad Gestures for Windows 11](https://www.elevenforum.com/t/touchpad-gestures-for-windows-11.3720/)
